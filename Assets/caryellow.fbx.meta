@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 71f2e1a309dc9e140a308355e8cfa6d3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: hp:bonnet_ok
+    100004: hp:boot_ok
+    100006: hp:bump_fro01
+    100008: hp:bump_rea01
+    100010: hp:chassis
+    100012: hp:door_lf_ok
+    100014: hp:door_rf_ok
+    100016: hp:glass
+    100018: hp:line
+    100020: hp:wheel
+    100022: hp:wheel01
+    100024: hp:windscre02
+    100026: wheel
+    100028: wheel01
+    400000: //RootNode
+    400002: hp:bonnet_ok
+    400004: hp:boot_ok
+    400006: hp:bump_fro01
+    400008: hp:bump_rea01
+    400010: hp:chassis
+    400012: hp:door_lf_ok
+    400014: hp:door_rf_ok
+    400016: hp:glass
+    400018: hp:line
+    400020: hp:wheel
+    400022: hp:wheel01
+    400024: hp:windscre02
+    400026: wheel
+    400028: wheel01
+    2300000: hp:bonnet_ok
+    2300002: hp:boot_ok
+    2300004: hp:bump_fro01
+    2300006: hp:bump_rea01
+    2300008: hp:chassis
+    2300010: hp:door_lf_ok
+    2300012: hp:door_rf_ok
+    2300014: hp:glass
+    2300016: hp:line
+    2300018: hp:wheel
+    2300020: hp:wheel01
+    2300022: hp:windscre02
+    2300024: wheel
+    2300026: wheel01
+    3300000: hp:bonnet_ok
+    3300002: hp:boot_ok
+    3300004: hp:bump_fro01
+    3300006: hp:bump_rea01
+    3300008: hp:chassis
+    3300010: hp:door_lf_ok
+    3300012: hp:door_rf_ok
+    3300014: hp:glass
+    3300016: hp:line
+    3300018: hp:wheel
+    3300020: hp:wheel01
+    3300022: hp:windscre02
+    3300024: wheel
+    3300026: wheel01
+    4300000: hp:wheel01
+    4300002: hp:wheel
+    4300004: hp:chassis
+    4300006: hp:line
+    4300008: hp:glass
+    4300010: hp:bump_fro01
+    4300012: hp:door_lf_ok
+    4300014: hp:door_rf_ok
+    4300016: hp:bonnet_ok
+    4300018: hp:bump_rea01
+    4300020: hp:boot_ok
+    4300022: hp:windscre02
+    4300024: wheel
+    4300026: wheel01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
